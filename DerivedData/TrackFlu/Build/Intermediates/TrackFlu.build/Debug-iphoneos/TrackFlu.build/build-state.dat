@@ -1,0 +1,593 @@
+TTrackFlu
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist
+cProcessPCH /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.o /home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.o /home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.o /home-local/hua/TrackFlu/TrackFlu/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.o /home-local/hua/TrackFlu/TrackFlu/MapViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.o /home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.o /home-local/hua/TrackFlu/TrackFlu/ChartView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu normal armv7
+cCopyStringsFile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/en.lproj/InfoPlist.strings TrackFlu/en.lproj/InfoPlist.strings
+cCompileStoryboard /home-local/hua/TrackFlu/TrackFlu/Base.lproj/Main.storyboard
+cCompileAssetCatalog /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app /home-local/hua/TrackFlu/TrackFlu/Images.xcassets
+cProcessInfoPlistFile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Info.plist /home-local/hua/TrackFlu/TrackFlu/TrackFlu-Info.plist
+cGenerateDSYMFile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu
+cProcessProductPackaging /Network/Servers/cs.labs.encs/Volumes/ServerHD2/cs_Users/hua/Library/MobileDevice/Provisioning\ Profiles/70EE6976-8D07-4E68-BC85-442B9A83D1A4.mobileprovision /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision
+cTouch /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent
+cCodeSign /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000532324610000000000000094
+t1394812001
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000532324610000000000000096
+t1394812001
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053232461000000000000036B
+t1394812001
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053232461000000000000019E
+t1394812001
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005323246300000000004D7BC0
+t1394812003
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532324640000000000A90C10
+t1394812004
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532324690000000002759920
+t1394812009
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532324A10000000000000ADC
+t1394812065
+s2780
+
+N/Network/Servers/cs.labs.encs/Volumes/ServerHD2/cs_Users/hua/Library/MobileDevice/Provisioning Profiles/70EE6976-8D07-4E68-BC85-442B9A83D1A4.mobileprovision
+c000000005362D112000000000000C041
+t1398984978
+s49217
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.pch
+t1398988582
+s93644
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.o
+t1398988582
+s63776
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.o
+t1398988582
+s63456
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFlu.LinkFileList
+c000000005362DF260000000000000392
+t1398988582
+s914
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.o
+t1398988582
+s61952
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.o
+t1398988582
+s39360
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.o
+t1398988582
+s39376
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.o
+t1398988582
+s3748
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent
+t1398988584
+s426
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/assetcatalog_dependencies.txt
+t1398988583
+s378
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/assetcatalog_generated_info.plist
+t1398988583
+s525
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app
+t1398988584
+s374
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM
+t2
+s0
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Base.lproj/Main.storyboardc
+t1398988584
+s272
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Info.plist
+t1398988584
+s1414
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/PkgInfo
+t1398988584
+s8
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist
+t1398988582
+s150
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu
+t1398988583
+s63800
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision
+t1398988584
+s49217
+
+N/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/en.lproj/InfoPlist.strings
+t1398988583
+s42
+
+N/home-local/hua/TrackFlu/TrackFlu/Base.lproj/Main.storyboard
+c000000005362D6F400000000000038D4
+t1398986484
+s14548
+
+N/home-local/hua/TrackFlu/TrackFlu/ChartView.m
+c000000005362DEE400000000000010F3
+t1398988516
+s4339
+
+N/home-local/hua/TrackFlu/TrackFlu/Images.xcassets
+c000000005362D7330000000000000198
+t1398986547
+s408
+
+N/home-local/hua/TrackFlu/TrackFlu/MapViewController.m
+c000000005362D1CE0000000000000AAE
+t1398985166
+s2734
+
+N/home-local/hua/TrackFlu/TrackFlu/TrackFlu-Info.plist
+c000000005362CAD90000000000000595
+t1398983385
+s1429
+
+N/home-local/hua/TrackFlu/TrackFlu/TrackFlu-Prefix.pch
+c000000005362CAD90000000000000158
+t1398983385
+s344
+
+N/home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m
+c000000005362CAD900000000000007E6
+t1398983385
+s2022
+
+N/home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m
+c000000005362CAD90000000000000218
+t1398983385
+s536
+
+N/home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m
+c000000005362CAD9000000000000021C
+t1398983385
+s540
+
+N/home-local/hua/TrackFlu/TrackFlu/en.lproj/InfoPlist.strings
+c000000005362CAD9000000000000002D
+t1398983385
+s45
+
+N/home-local/hua/TrackFlu/TrackFlu/main.m
+c000000005362CAD90000000000000158
+t1398983385
+s344
+
+CBuild AST from /home-local/hua/TrackFlu/TrackFlu/ChartView.m
+r0
+
+CBuild AST from /home-local/hua/TrackFlu/TrackFlu/MapViewController.m
+r0
+
+CBuild AST from /home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m
+r0
+
+CBuild AST from /home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m
+r0
+
+CBuild AST from /home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m
+r0
+
+CBuild AST from /home-local/hua/TrackFlu/TrackFlu/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd09cd9a61613b941^aa43e2a61613b941^---0#1#1#--18"Check dependencies36"3855EB60-B7E0-4642-9EE4-949FD2BC9E10-
+
+CCodeSign /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app
+s420681384.472033
+e420681384.583392
+r1
+xCodeSign
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"CodeSign DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app72"CodeSign DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app5ce678a81613b941^605995a81613b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/0000000000000000^1053"CodeSign DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app    cd /home-local/hua/TrackFlu    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: hua zhang (SM88SY4XGE)" and provisioning profile "iOS Team Provisioning Profile: edu.wsu.vancouver.*" (70EE6976-8D07-4E68-BC85-442B9A83D1A4)    /usr/bin/codesign --force --sign 90663CA1AF54D3D3998EE4D109DE8CBC45AB4B1E --resource-rules=/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist --entitlements /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app36"DEB0DC9F-51BA-4E3C-A87B-B8F730C4287A-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCompileAssetCatalog /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app /home-local/hua/TrackFlu/TrackFlu/Images.xcassets
+s420681383.016653
+e420681383.457909
+r1
+xCompileAssetCatalog
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app
+x/home-local/hua/TrackFlu/TrackFlu/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/LaunchImage-700-568h@2x.png
+o/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Assets.car
+o/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CompileAssetCatalog DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app TrackFlu/Images.xcassets108"CompileAssetCatalog DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app TrackFlu/Images.xcassetsad5004a71613b941^603a75a71613b941^-406"/* com.apple.actool.compilation-results *//home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/LaunchImage-700-568h@2x.png/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Assets.car/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@57"file:///home-local/hua/TrackFlu/TrackFlu/Images.xcassets/0000000000000000^1073"CompileAssetCatalog DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app TrackFlu/Images.xcassets    cd /home-local/hua/TrackFlu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/assetcatalog_dependencies.txt --output-partial-info-plist /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app /home-local/hua/TrackFlu/TrackFlu/Images.xcassets36"5DFA3B5C-0647-4240-BB92-5E05912D0B15-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/arm64/ChartView.o /home-local/hua/TrackFlu/TrackFlu/ChartView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/arm64/MapViewController.o /home-local/hua/TrackFlu/TrackFlu/MapViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/arm64/TrackFluAppDelegate.o /home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/arm64/TrackFluFirstViewController.o /home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/arm64/TrackFluSecondViewController.o /home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/arm64/main.o /home-local/hua/TrackFlu/TrackFlu/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.o /home-local/hua/TrackFlu/TrackFlu/ChartView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420681382.916578
+e420681382.990577
+r1
+xCompileC
+xDerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.o
+x/home-local/hua/TrackFlu/TrackFlu/ChartView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/home-local/hua/TrackFlu/TrackFlu/ChartView.m
+d/home-local/hua/TrackFlu/TrackFlu/ChartView.h
+o/home-local/hua/TrackFlu/TrackFlu/ChartView.m:74:33: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [label setTextAlignment:UITextAlignmentCenter];
+o                                ^
+oIn module 'UIKit' imported from /home-local/hua/TrackFlu/TrackFlu/ChartView.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/home-local/hua/TrackFlu/TrackFlu/ChartView.m:74:33: warning: implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment') [-Wenum-conversion]
+o        [label setTextAlignment:UITextAlignmentCenter];
+o        ~                       ^~~~~~~~~~~~~~~~~~~~~
+o/home-local/hua/TrackFlu/TrackFlu/ChartView.m:90:33: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [label setTextAlignment:UITextAlignmentCenter];
+o                                ^
+oIn module 'UIKit' imported from /home-local/hua/TrackFlu/TrackFlu/ChartView.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here
+o    UITextAlignmentCenter,
+o    ^
+o/home-local/hua/TrackFlu/TrackFlu/ChartView.m:90:33: warning: implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment') [-Wenum-conversion]
+o        [label setTextAlignment:UITextAlignmentCenter];
+o        ~                       ^~~~~~~~~~~~~~~~~~~~~
+o/home-local/hua/TrackFlu/TrackFlu/ChartView.m:95:15: warning: 'minimumFontSize' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        label.minimumFontSize = 1.0f;
+o              ^
+oIn module 'UIKit' imported from /home-local/hua/TrackFlu/TrackFlu/ChartView.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h:48:30: note: 'minimumFontSize' declared here
+o@property(nonatomic) CGFloat minimumFontSize NS_DEPRECATED_IOS(2_0, 6_0); // NOTE: deprecated - use minimumScaleFactor. default is 0.0
+o                             ^
+o5 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /home-local/hua/TrackFlu/TrackFlu/ChartView.m217"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.o TrackFlu/ChartView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler01bfeaa61613b941^1096fda61613b941^-2511"/home-local/hua/TrackFlu/TrackFlu/ChartView.m:74:33: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [label setTextAlignment:UITextAlignmentCenter];                                ^In module 'UIKit' imported from /home-local/hua/TrackFlu/TrackFlu/ChartView.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/home-local/hua/TrackFlu/TrackFlu/ChartView.m:74:33: warning: implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment') [-Wenum-conversion]        [label setTextAlignment:UITextAlignmentCenter];        ~                       ^~~~~~~~~~~~~~~~~~~~~/home-local/hua/TrackFlu/TrackFlu/ChartView.m:90:33: warning: 'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [label setTextAlignment:UITextAlignmentCenter];                                ^In module 'UIKit' imported from /home-local/hua/TrackFlu/TrackFlu/ChartView.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:42:5: note: 'UITextAlignmentCenter' declared here    UITextAlignmentCenter,    ^/home-local/hua/TrackFlu/TrackFlu/ChartView.m:90:33: warning: implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment') [-Wenum-conversion]        [label setTextAlignment:UITextAlignmentCenter];        ~                       ^~~~~~~~~~~~~~~~~~~~~/home-local/hua/TrackFlu/TrackFlu/ChartView.m:95:15: warning: 'minimumFontSize' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        label.minimumFontSize = 1.0f;              ^In module 'UIKit' imported from /home-local/hua/TrackFlu/TrackFlu/ChartView.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h:48:30: note: 'minimumFontSize' declared here@property(nonatomic) CGFloat minimumFontSize NS_DEPRECATED_IOS(2_0, 6_0); // NOTE: deprecated - use minimumScaleFactor. default is 0.0                             ^5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-420681382#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-420681382#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@176"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^73#32#73#32#1609#0#12"Deprecations--2@141"Implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment')-420681382#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^73#32#73#32#1609#0#22"Value Conversion Issue2(3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^73#32#73#53#1609#0#3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^73#8#73#9#1585#0#-2@66"'UITextAlignmentCenter' is deprecated: first deprecated in iOS 6.0-420681382#18446744073709551615#0#1(2@37"'UITextAlignmentCenter' declared here-420681382#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@176"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^41#4#41#4#2493#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^89#32#89#32#2185#0#12"Deprecations--2@141"Implicit conversion from enumeration type 'enum UITextAlignment' to different enumeration type 'NSTextAlignment' (aka 'enum NSTextAlignment')-420681382#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^89#32#89#32#2185#0#22"Value Conversion Issue2(3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^89#32#89#53#2185#0#3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^89#8#89#9#2161#0#-2@60"'minimumFontSize' is deprecated: first deprecated in iOS 6.0-420681382#18446744073709551615#0#1(2@31"'minimumFontSize' declared here-420681382#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@168"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h0000000000000000^47#29#47#29#2750#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^94#14#94#14#2411#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@52"file:///home-local/hua/TrackFlu/TrackFlu/ChartView.m0000000000000000^3559"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.o TrackFlu/ChartView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /home-local/hua/TrackFlu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/home-local/hua/TrackFlu/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-generated-files.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-own-target-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-all-target-headers.hmap -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-project-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources/armv7 -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources -F/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos -include /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch -MMD -MT dependencies -MF /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.d --serialize-diagnostics /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.dia -c /home-local/hua/TrackFlu/TrackFlu/ChartView.m -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.o36"0316130C-C42C-4EAE-BED6-A8E9CCFEE3FA-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.o /home-local/hua/TrackFlu/TrackFlu/MapViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420681382.915839
+e420681382.989920
+r1
+xCompileC
+xDerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.o
+x/home-local/hua/TrackFlu/TrackFlu/MapViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/home-local/hua/TrackFlu/TrackFlu/MapViewController.m
+d/home-local/hua/TrackFlu/TrackFlu/MapViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /home-local/hua/TrackFlu/TrackFlu/MapViewController.m233"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.o TrackFlu/MapViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc093eaa61613b941^1a6dfda61613b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///home-local/hua/TrackFlu/TrackFlu/MapViewController.m0000000000000000^3607"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.o TrackFlu/MapViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /home-local/hua/TrackFlu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/home-local/hua/TrackFlu/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-generated-files.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-own-target-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-all-target-headers.hmap -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-project-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources/armv7 -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources -F/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos -include /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch -MMD -MT dependencies -MF /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.d --serialize-diagnostics /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.dia -c /home-local/hua/TrackFlu/TrackFlu/MapViewController.m -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.o36"FC727BD3-CC20-4773-BD34-42E68E185B50-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.o /home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420681382.915419
+e420681382.978394
+r1
+xCompileC
+xDerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.o
+x/home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m
+d/home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m237"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.o TrackFlu/TrackFluAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler446aeaa61613b941^ff79faa61613b941^---0#0#1#-19%DVTDocumentLocation2@62"file:///home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m0000000000000000^3619"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.o TrackFlu/TrackFluAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /home-local/hua/TrackFlu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/home-local/hua/TrackFlu/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-generated-files.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-own-target-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-all-target-headers.hmap -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-project-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources/armv7 -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources -F/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos -include /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch -MMD -MT dependencies -MF /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.d --serialize-diagnostics /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.dia -c /home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.o36"E0CF9716-447E-4BEB-9AD4-808F1CB279E9-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.o /home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420681382.916178
+e420681382.966197
+r1
+xCompileC
+xDerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.o
+x/home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m
+d/home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m253"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.o TrackFlu/TrackFluFirstViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1aa6eaa61613b941^0459f7a61613b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m0000000000000000^3667"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.o TrackFlu/TrackFluFirstViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /home-local/hua/TrackFlu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/home-local/hua/TrackFlu/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-generated-files.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-own-target-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-all-target-headers.hmap -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-project-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources/armv7 -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources -F/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos -include /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch -MMD -MT dependencies -MF /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.d --serialize-diagnostics /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.dia -c /home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.o36"B5F44ED9-67C8-4175-BA52-4E6F66AF921D-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.o /home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420681382.915140
+e420681382.968035
+r1
+xCompileC
+xDerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.o
+x/home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m
+d/home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m255"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.o TrackFlu/TrackFluSecondViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler255aeaa61613b941^ccd1f7a61613b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m0000000000000000^3673"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.o TrackFlu/TrackFluSecondViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /home-local/hua/TrackFlu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/home-local/hua/TrackFlu/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-generated-files.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-own-target-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-all-target-headers.hmap -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-project-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources/armv7 -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources -F/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos -include /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch -MMD -MT dependencies -MF /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.d --serialize-diagnostics /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.dia -c /home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.o36"08F9362C-8E4B-426C-B252-EB80D5B75E66-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.o /home-local/hua/TrackFlu/TrackFlu/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420681382.915584
+e420681382.946582
+r1
+xCompileC
+xDerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.o
+x/home-local/hua/TrackFlu/TrackFlu/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/home-local/hua/TrackFlu/TrackFlu/main.m
+d/home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /home-local/hua/TrackFlu/TrackFlu/main.m207"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.o TrackFlu/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1475eaa61613b941^8753f2a61613b941^---0#0#1#-19%DVTDocumentLocation2@47"file:///home-local/hua/TrackFlu/TrackFlu/main.m0000000000000000^3529"CompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.o TrackFlu/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /home-local/hua/TrackFlu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/home-local/hua/TrackFlu/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-generated-files.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-own-target-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-all-target-headers.hmap -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-project-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources/armv7 -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources -F/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos -include /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch -MMD -MT dependencies -MF /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.d --serialize-diagnostics /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.dia -c /home-local/hua/TrackFlu/TrackFlu/main.m -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.o36"CA0F5D59-92CA-434B-9961-2B85FFA5AEE0-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7s/ChartView.o /home-local/hua/TrackFlu/TrackFlu/ChartView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7s/MapViewController.o /home-local/hua/TrackFlu/TrackFlu/MapViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7s/TrackFluAppDelegate.o /home-local/hua/TrackFlu/TrackFlu/TrackFluAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7s/TrackFluFirstViewController.o /home-local/hua/TrackFlu/TrackFlu/TrackFluFirstViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7s/TrackFluSecondViewController.o /home-local/hua/TrackFlu/TrackFlu/TrackFluSecondViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7s/main.o /home-local/hua/TrackFlu/TrackFlu/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /home-local/hua/TrackFlu/TrackFlu/Base.lproj/Main.storyboard
+s420681383.016182
+e420681384.444570
+r1
+xCompileStoryboard
+x/home-local/hua/TrackFlu/TrackFlu/Base.lproj/Main.storyboard
+onwi_state: registration failed (1000000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CompileStoryboard TrackFlu/Base.lproj/Main.storyboard53"CompileStoryboard TrackFlu/Base.lproj/Main.storyboardc72f04a71613b941^cccf71a81613b941^-41"nwi_state: registration failed (1000000)-0#0#1#-19%DVTDocumentLocation2@67"file:///home-local/hua/TrackFlu/TrackFlu/Base.lproj/Main.storyboard0000000000000000^762"CompileStoryboard TrackFlu/Base.lproj/Main.storyboard    cd /home-local/hua/TrackFlu    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Base.lproj/Main.storyboardc /home-local/hua/TrackFlu/TrackFlu/Base.lproj/Main.storyboard36"98835FC8-509E-4E50-A2BC-504575B74004-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCopyStringsFile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/en.lproj/InfoPlist.strings TrackFlu/en.lproj/InfoPlist.strings
+s420681383.016052
+e420681383.017266
+r1
+xCopyStringsFile
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/en.lproj/InfoPlist.strings
+xTrackFlu/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy TrackFlu/en.lproj/InfoPlist.strings142"CopyStringsFile DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/en.lproj/InfoPlist.strings TrackFlu/en.lproj/InfoPlist.strings392904a71613b941^df6b04a71613b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///home-local/hua/TrackFlu/TrackFlu/en.lproj/InfoPlist.strings0000000000000000^590"CopyStringsFile DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/en.lproj/InfoPlist.strings TrackFlu/en.lproj/InfoPlist.strings    cd /home-local/hua/TrackFlu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/en.lproj -- TrackFlu/en.lproj/InfoPlist.strings36"9A201E87-EF20-4349-97B9-9DECD3ECD98B-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist
+s420681382.884259
+e420681382.884950
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xDerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist216"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist2b68e2a61613b941^4dbde2a61613b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist0034eccedeffdf42^760"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist    cd /home-local/hua/TrackFlu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app36"551F150C-5DB1-45DD-9E24-5BE305D0D499-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CCreateUniversalBinary /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu normal armv7\ armv7s\ arm64
+r0
+
+CGenerateDSYMFile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu
+s420681384.447165
+e420681384.466095
+r1
+xGenerateDSYMFile
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM158"GenerateDSYMFile DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu418272a81613b941^fc5277a81613b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM0034eccedeffdf42^674"GenerateDSYMFile DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu    cd /home-local/hua/TrackFlu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app.dSYM36"0E348950-D027-47B9-B611-AF884588D394-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CLd /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/arm64/TrackFlu normal arm64
+r0
+
+CLd /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFlu normal armv7
+r0
+
+CLd /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7s/TrackFlu normal armv7s
+r0
+
+CLd /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu normal armv7
+s420681382.991243
+e420681383.015353
+r1
+xLd
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu
+xnormal
+xarmv7
+d/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFlu.LinkFileList
+d/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluSecondViewController.o
+d/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluAppDelegate.o
+d/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/main.o
+d/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/MapViewController.o
+d/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFluFirstViewController.o
+d/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/ChartView.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu88"Ld DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu normal armv703cffda61613b941^ba4904a71613b941^---0#0#1#--1322"Ld DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu normal armv7    cd /home-local/hua/TrackFlu    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos -F/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos -filelist /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFlu.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/Objects-normal/armv7/TrackFlu_dependency_info.dat -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/TrackFlu36"F2A36B3E-28CC-4470-BBB9-47F5F43856EE-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CProcessInfoPlistFile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Info.plist /home-local/hua/TrackFlu/TrackFlu/TrackFlu-Info.plist
+s420681384.445037
+e420681384.446829
+r1
+xProcessInfoPlistFile
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Info.plist
+x/home-local/hua/TrackFlu/TrackFlu/TrackFlu-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Process /home-local/hua/TrackFlu/TrackFlu/TrackFlu-Info.plist124"ProcessInfoPlistFile DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Info.plist TrackFlu/TrackFlu-Info.plist87fa71a81613b941^6f6472a81613b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///home-local/hua/TrackFlu/TrackFlu/TrackFlu-Info.plist0000000000000000^991"ProcessInfoPlistFile DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Info.plist TrackFlu/TrackFlu-Info.plist    cd /home-local/hua/TrackFlu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /home-local/hua/TrackFlu/TrackFlu/TrackFlu-Info.plist -genpkginfo /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/ResourceRules.plist -additionalcontentfile /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/assetcatalog_generated_info.plist -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/Info.plist36"E07C89CC-38D8-49CF-A75F-1BB0716060A3-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CProcessPCH /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-dwcslldqgaucprgacqlcovqsnsju/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-dyhjnvjfyyxktiazxcbxbccqhpgi/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420681382.885369
+e420681382.914614
+r1
+xProcessPCH
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.pch
+xTrackFlu/TrackFlu-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/home-local/hua/TrackFlu/TrackFlu/TrackFlu-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TrackFlu/TrackFlu-Prefix.pch237"ProcessPCH DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5bb6e2a61613b941^9126eaa61613b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///home-local/hua/TrackFlu/TrackFlu/TrackFlu-Prefix.pch0000000000000000^3461"ProcessPCH DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /home-local/hua/TrackFlu    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/home-local/hua/TrackFlu/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-generated-files.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-own-target-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-all-target-headers.hmap -iquote /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu-project-headers.hmap -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources/armv7 -I/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/DerivedSources -F/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos --serialize-diagnostics /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.dia -MMD -MT dependencies -MF /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.d -c /home-local/hua/TrackFlu/TrackFlu/TrackFlu-Prefix.pch -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/PrecompiledHeaders/TrackFlu-Prefix-fcctolzslvuciobkyqumzencxuvf/TrackFlu-Prefix.pch.pch36"22F82320-A947-452F-B95C-3FC338CB65E0-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CProcessPCH /home-local/hua/TrackFlu/DerivedData/TrackFlu/Index/PrecompiledHeaders/TrackFlu-Prefix-ehjxykwbvqupsgcmafkxfilfwzuo_ast/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /home-local/hua/TrackFlu/DerivedData/TrackFlu/Index/PrecompiledHeaders/TrackFlu-Prefix-ewrfnkqjsxdkcrareeuypsxortae_ast/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /home-local/hua/TrackFlu/DerivedData/TrackFlu/Index/PrecompiledHeaders/TrackFlu-Prefix-fvnftczcfoggdydvuvaeoofgbscv_ast/TrackFlu-Prefix.pch.pch TrackFlu/TrackFlu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent
+s420681384.470953
+e420681384.471762
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection245"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent245"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent289978a81613b941^cac578a81613b941^---0#0#1#-19%DVTDocumentLocation2@132"file:///home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent0034eccedeffdf42^778"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent    cd /home-local/hua/TrackFlu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Intermediates/TrackFlu.build/Debug-iphoneos/TrackFlu.build/TrackFlu.xcent36"28976FE6-ED48-4A2F-847A-5B2E0B3133AF-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CProcessProductPackaging /Network/Servers/cs.labs.encs/Volumes/ServerHD2/cs_Users/hua/Library/MobileDevice/Provisioning\ Profiles/70EE6976-8D07-4E68-BC85-442B9A83D1A4.mobileprovision /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision
+s420681384.467184
+e420681384.470409
+r1
+xProcessProductPackaging
+x/Network/Servers/cs.labs.encs/Volumes/ServerHD2/cs_Users/hua/Library/MobileDevice/Provisioning Profiles/70EE6976-8D07-4E68-BC85-442B9A83D1A4.mobileprovision
+x/home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection270"ProcessProductPackaging /Network/Servers/cs.labs.encs/Volumes/ServerHD2/cs_Users/hua/Library/MobileDevice/Provisioning\ Profiles/70EE6976-8D07-4E68-BC85-442B9A83D1A4.mobileprovision DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision270"ProcessProductPackaging /Network/Servers/cs.labs.encs/Volumes/ServerHD2/cs_Users/hua/Library/MobileDevice/Provisioning\ Profiles/70EE6976-8D07-4E68-BC85-442B9A83D1A4.mobileprovision DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision1aa577a81613b941^506d78a81613b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision0034eccedeffdf42^802"ProcessProductPackaging /Network/Servers/cs.labs.encs/Volumes/ServerHD2/cs_Users/hua/Library/MobileDevice/Provisioning\ Profiles/70EE6976-8D07-4E68-BC85-442B9A83D1A4.mobileprovision DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision    cd /home-local/hua/TrackFlu    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Network/Servers/cs.labs.encs/Volumes/ServerHD2/cs_Users/hua/Library/MobileDevice/Provisioning\ Profiles/70EE6976-8D07-4E68-BC85-442B9A83D1A4.mobileprovision -o /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app/embedded.mobileprovision36"A51B6D22-C2B8-4EA0-9470-C8FEC4D8EAEE-
+b434B6CE1-137B-4016-A3A0-4B1342C824FC
+
+CTouch /home-local/hua/TrackFlu/DerivedData/TrackFlu/Build/Products/Debug-iphoneos/TrackFlu.app
+r0
+

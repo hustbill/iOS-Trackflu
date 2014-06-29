@@ -1,0 +1,23 @@
+Project name: TrackFlu
+Date:         May 6, 2014
+Email:        hua.zhang@email.wsu.edu
+---------------------------------------------------------------------
+
+TrackFlu is designed with information from the CDC in order to promote consumer. 
+
+A map feature shows weekly state by state influenza activity 
+
+Follow the flu as it makes its way from state to state! 
+
+Get dynamic flu related news updates in List.
+
+Users are also able to post the flu news to friends via TrackFlu.
+
+------------------------------------------------
+backend - web server:
+
+https://bend.encs.vancouver.wsu.edu/~billyzhang/trackflu/
+
+data file:
+https://bend.encs.vancouver.wsu.edu/~billyzhang/trackflu/samples/cities.json
+
